@@ -1,0 +1,16 @@
+Best Num-Vehicles -> 10
+Avg Num-Vehicles -> 10
+Best Distance -> 845.672
+Avg Distance -> 845.672
+chromosome with best dist -> 
+Num of vehicle -> 10 Distance -> 845.672
+Route 1 ->  31 32 30 34 36 37 38 35 33 
+Route 2 ->  19 23 24 26 28 29 27 25 22 21 20 
+Route 3 ->  54 53 52 55 57 59 58 56 
+Route 4 ->  66 64 62 61 73 71 60 63 67 65 68 
+Route 5 ->  80 77 75 70 69 72 76 78 79 81 82 85 
+Route 6 ->  89 86 83 84 87 88 90 
+Route 7 ->  7 9 10 8 5 3 1 74 4 6 
+Route 8 ->  12 16 17 18 14 15 13 11 0 
+Route 9 ->  42 41 40 39 43 45 44 47 50 49 51 48 46 
+Route 10 ->  97 95 94 93 91 92 96 99 98 2 
